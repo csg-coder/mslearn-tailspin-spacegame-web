@@ -29,3 +29,7 @@ Privacy information can be found at https://privacy.microsoft.com/en-us/
 
 Microsoft and any contributors reserve all other rights, whether under their respective copyrights, patents,
 or trademarks, whether by implication, estoppel or otherwise.
+
+
+[![Build Status](https://grigore.visualstudio.com/Learn-2020-Jun/_apis/build/status/csg-coder.mslearn-tailspin-spacegame-web?branchName=master)](https://grigore.visualstudio.com/Learn-2020-Jun/_build/latest?definitionId=9&branchName=master)
+
